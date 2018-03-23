@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/syz-commer.iml" filepath="$PROJECT_DIR$/syz-commer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syz-commer-app/syz-commer-app.iml" filepath="$PROJECT_DIR$/syz-commer-app/syz-commer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syz-commer-common/syz-commer-common.iml" filepath="$PROJECT_DIR$/syz-commer-common/syz-commer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syz-commer-service/syz-commer-service.iml" filepath="$PROJECT_DIR$/syz-commer-service/syz-commer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syz-commer-shopWeb/syz-commer-shopWeb.iml" filepath="$PROJECT_DIR$/syz-commer-shopWeb/syz-commer-shopWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syz-commer-web/syz-commer-web.iml" filepath="$PROJECT_DIR$/syz-commer-web/syz-commer-web.iml" />
+    </modules>
+  </component>
+</project>

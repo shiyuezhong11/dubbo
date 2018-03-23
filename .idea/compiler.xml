@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="syz-commer-app" />
+        <module name="syz-commer-common" />
+        <module name="syz-commer-service" />
+        <module name="syz-commer-shopWeb" />
+        <module name="syz-commer-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="syz-commer" target="1.7" />
+      <module name="syz-commer-app" target="1.7" />
+      <module name="syz-commer-common" target="1.7" />
+      <module name="syz-commer-service" target="1.7" />
+      <module name="syz-commer-shopWeb" target="1.7" />
+      <module name="syz-commer-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
